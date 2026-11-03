@@ -36,3 +36,6 @@ The report includes:
 ## Project File
 
 `Sales & Business Performance Analysis.pbix`
+## Report Preview
+
+![Sales Report](Sales%20Report.png)
